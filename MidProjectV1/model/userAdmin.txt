@@ -1,0 +1,6 @@
+admin|a|a|a@a.a
+admin|admin|admin|admin@email.com
+admin|saron|123456|saron22@gmail.com
+admin|safayat|12345|safayat@gmail.com
+admin|teacher|1234|teacher@gmail.com
+admin|saaa|1234|saaa@gmail.com

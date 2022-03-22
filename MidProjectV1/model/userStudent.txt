@@ -1,0 +1,3 @@
+student|s|s|s@s.s
+student|safayat|123456789|safayat@gmail.com
+student|saf|1234|saf@gmail.com
